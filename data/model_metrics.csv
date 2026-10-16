@@ -1,0 +1,2 @@
+model,train_rows,test_rows,mae_rupees,wape_percent,train_start,train_end,test_start,test_end
+Random Forest Regressor,1056,272,5684.37,12.96,2026-05-01,2026-09-09,2026-09-10,2026-10-13
